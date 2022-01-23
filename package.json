@@ -86,7 +86,7 @@
     "@sushiswap/default-token-list": "22.4.4",
     "@sushiswap/kashi-sdk": "1.0.0-canary.37",
     "@sushiswap/limit-order-pair-list": "0.2.11",
-    "@sushiswap/limit-order-sdk": "1.0.0-canary.47",
+    "@sushiswap/limit-order-sdk": "1.0.0-canary.175",
     "@sushiswap/miso": "1.0.0-canary.37",
     "@sushiswap/miso-sdk": "1.0.0-canary.36",
     "@sushiswap/sdk": "^5.0.0-canary.109",
